@@ -1,1 +1,1 @@
-Book Store Crud APP using the MERN stack
+Book Store CRUD app using the MERN stack
